@@ -16,7 +16,7 @@
 
 # Credits
 
-This package was created with Cookiecutter and the `{{ cookiecutter.github_organisation }}/ML_CookiecutterPyPackage` project template.
+This package was created with Cookiecutter and the `{{ cookiecutter.github_organisation }}/ml-cookiecutter-pypackage` project template.
 
 * Cookiecutter: https://github.com/cookiecutter/cookiecutter
 * {{ cookiecutter.github_organisation }}/ML_CookiecutterPyPackage: https://github.com/{{ cookiecutter.github_organisation }}/ML_CookiecutterPyPackage
